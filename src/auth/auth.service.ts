@@ -40,3 +40,10 @@ export class AuthService {
     return user;
   }
 }
+
+//refer to the partner website
+//shopify generates the link
+//app extension
+//check the app extension
+//the product already exist
+//return an en error if a product already exists
